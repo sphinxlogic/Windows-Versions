@@ -1,3 +1,4 @@
+<table>
 <tr><td>Windows NT 3.1</td><td>3.10</td><td>511</td><td>1993-07-27</td><td>
 <br /></td></tr>
 <tr><td>Windows NT 3.5</td><td>3.50</td><td>807</td><td>1994-09-21</td><td>
@@ -101,3 +102,4 @@
 <tr><td>Windows 10, Version 2004</td><td>10.0</td><td>19041</td><td>2020-05-27</td><td>
 <br /></td></tr>
 <tr><td>Windows 10, Version 20H2</td><td>10.0</td><td>19042</td><td>2020-10-20</td><td>
+</table>
